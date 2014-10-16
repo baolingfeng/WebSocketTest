@@ -1,0 +1,15 @@
+10:03:41,810  INFO TestServerEndpoint:21 - Connected ... 51ebe014-e25c-42a3-918b-4c8cb37aed53
+10:03:41,833  INFO TestClientEndpoint:30 - Connected ... a2c4b6d1-7253-43f7-a6cc-c315cbce6605
+10:03:41,849  INFO TestClientEndpoint:42 - Received ....start
+10:03:57,642  INFO TestClientEndpoint:42 - Received ....hello world
+10:05:28,553  INFO TestClientEndpoint:30 - Connected ... a845384f-87da-4712-adc3-51366e99265c
+10:05:28,644  INFO TestServerEndpoint:21 - Connected ... 45480ea8-c81b-4514-8d31-215eda9e69e9
+10:05:28,659  INFO TestClientEndpoint:42 - Received ....From server: start
+10:05:33,417  INFO TestClientEndpoint:42 - Received ....From server: hi
+10:05:54,121  INFO TestClientEndpoint:42 - Received ....From server: ni hao
+10:06:11,340  INFO TestServerEndpoint:40 - Session 45480ea8-c81b-4514-8d31-215eda9e69e9 closed because of CloseReason[1000,Game ended]
+10:06:11,360  INFO TestClientEndpoint:52 - Session a845384f-87da-4712-adc3-51366e99265c close because of CloseReason[1000,Game ended]
+10:24:30,266  INFO TestServerEndpoint:21 - Connected ... 50c603bf-05c1-4041-8e9a-1c56ab7e7b2d
+10:24:36,741  INFO TestServerEndpoint:26 - from client: test
+10:33:25,612  INFO TestServerEndpoint:21 - Connected ... 84f30b2a-cd58-49ae-89c5-b3625a32ea5f
+10:33:31,357  INFO TestServerEndpoint:26 - from client: 三三四四
